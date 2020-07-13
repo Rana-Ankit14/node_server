@@ -1,0 +1,15 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rana Ankit Singh",
+  "license": "ISC",
+  "description": "Simple node server to render static html pages",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
