@@ -5,6 +5,7 @@ Simple node server to render static html page
 In the project directory, you can run:
 
 ### `node app.js`
+To run the server 
 ### `npm start`
 For auto restart the server
 ### `nodemon`
